@@ -1,0 +1,2 @@
+# Algorithmania
+JavaScript Algorithm Practice
